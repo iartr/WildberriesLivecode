@@ -2,7 +2,7 @@
 
 В январе 2024 года получил оффер в WB на 600к. В этом репозитории разбор трех лайвкод задач с собеса.   
    
-**Смотреть видео с разбором**: https://youtube.com/@offer_factory   
+**Смотреть видео с разбором**: https://youtu.be/vSHqR8W6-pY?si=l4FrJSWTT2nlDE8d   
    
 **Менторство**: https://iartr.notion.site/mentor 
    
@@ -34,6 +34,8 @@ coroutineScope.launch {
 }
 ```
 
+[Решение](app/src/test/java/com/offerfactory/video3/WBTests.kt)
+
 ---
 
 ## Задача №2
@@ -53,6 +55,8 @@ class Repository(private val retrofitApi: RetrofitApi) {
     }
 }
 ```
+
+[Решение](app/src/test/java/com/offerfactory/video3/WBTests.kt)
 
 ---
 
@@ -76,5 +80,6 @@ class CountdownActivity : AppCompatActivity() {
         finish()
     }
 }
-
 ```
+
+[Решение](app/src/main/java/com/offerfactory/video3/MainActivity.kt)
